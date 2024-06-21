@@ -1,0 +1,78 @@
+{
+    "2024-01-01": {
+        "holiday": "New Year's Day",
+        "offer": "Buy one and get one free"
+    },
+    "2024-02-14": {
+        "holiday": "Valentine's Day",
+        "offer": "Free dessert with any meal"
+    },
+    "2024-03-17": {
+        "holiday": "St. Patrick's Day",
+        "offer": "15% off on all green dishes"
+    },
+    "2024-04-01": {
+        "holiday": "April Fool's Day",
+        "offer": "Surprise discount on your bill"
+    },
+    "2024-05-28": {
+        "holiday": "Test Day",
+        "offer": "Buy one and get one free"
+    },
+    "2024-05-27": {
+        "holiday": "Memorial Day",
+        "offer": "25% off on all BBQ dishes"
+    },
+    "2024-06-05": {
+        "holiday": "Demo Day",
+        "offer": "Buy one and get one free"
+    },
+    "2024-07-04": {
+        "holiday": "Independence Day",
+        "offer": "20% off on all dishes"
+    },
+    "2024-09-02": {
+        "holiday": "Labor Day",
+        "offer": "Free appetizer with every meal"
+    },
+    "2024-10-31": {
+        "holiday": "Halloween",
+        "offer": "Free candy with every order"
+    },
+    "2024-11-11": {
+        "holiday": "Veterans Day",
+        "offer": "30% off for all veterans"
+    },
+    "2024-11-28": {
+        "holiday": "Thanksgiving Day",
+        "offer": "Free dessert with every meal"
+    },
+    "2024-12-25": {
+        "holiday": "Christmas Day",
+        "offer": "50% off on second entree"
+    },
+    "2024-12-31": {
+        "holiday": "New Year's Eve",
+        "offer": "Complimentary champagne with dinner"
+    },
+    "2024-06-16": {
+        "holiday": "Father's Day",
+        "offer": "20% off for all fathers"
+    },
+    "2024-05-12": {
+        "holiday": "Mother's Day",
+        "offer": "Free dessert for all mothers"
+    },
+    "2024-04-22": {
+        "holiday": "Earth Day",
+        "offer": "10% off for using reusable containers"
+    },
+    "2024-06-14": {
+        "holiday": "Flag Day",
+        "offer": "15% off for wearing patriotic colors"
+    },
+    "2024-03-08": {
+        "holiday": "International Women's Day",
+        "offer": "25% off for all women"
+    }
+}

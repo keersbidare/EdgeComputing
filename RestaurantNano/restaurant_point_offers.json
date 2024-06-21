@@ -1,0 +1,28 @@
+{
+    "offers": [
+        {
+            "range": [0, 10],
+            "offer": "Free dessert with any purchase"
+        },
+        {
+            "range": [10, 100],
+            "offer": "10% off your next meal"
+        },
+        {
+            "range": [100, 200],
+            "offer": "Free appetizer with any entree"
+        },
+        {
+            "range": [200, 500],
+            "offer": "20% off your total bill"
+        },
+        {
+            "range": [500, 1000],
+            "offer": "Free meal for one"
+        },
+        {
+            "range": [1000, 10000],
+            "offer": "Free meal for two"
+        }
+    ]
+}
